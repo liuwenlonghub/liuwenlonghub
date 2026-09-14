@@ -50,13 +50,13 @@ Exploring intelligent systems that connect software, hardware, and the physical 
 
 An AI-powered multimodal educational resource generation engine.
 
-[zy.limeai.net](https://zy.limeai.net)
+zy.limeai.net
 
 ### 2006 — Music 2.0
 
 An early experiment on the web, now preserved as part of the story behind **320kbps.com**.
 
-[320kbps.com](https://320kbps.com)
+320kbps.com
 
 ---
 

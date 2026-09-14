@@ -50,13 +50,13 @@
 
 一个 AI 驱动的多模态教育资源生成引擎。
 
-[zy.limeai.net](https://zy.limeai.net)
+zy.limeai.net
 
 ### 2006 — Music 2.0
 
 一次早期的网络实验，如今已成为 **320kbps.com** 背后的故事之一。
 
-[320kbps.com](https://320kbps.com)
+320kbps.com
 
 ---
 
