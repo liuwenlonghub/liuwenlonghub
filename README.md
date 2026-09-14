@@ -1,5 +1,7 @@
 # Evan Liu
 
+[中文](README.zh-CN.md) · [English](README.md)
+
 ### Physical AI & Robotics
 
 **Building Physical AI for my wife and child.**
