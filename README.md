@@ -1,4 +1,4 @@
-# Evan Liu
+# Hi, I'm Evan Liu
 
 [中文](README.zh-CN.md) · [English](README.md)
 
